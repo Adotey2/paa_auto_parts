@@ -1,0 +1,26 @@
+/* [project]/src/app/jakarta_1a1f605c.module.css [app-client] (css) */
+@font-face {
+  font-family: jakarta;
+  src: url("../media/plus_jakarta_sans_latin_wght_normal-s.p.1nsast9qgxif8.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 800;
+}
+
+@font-face {
+  font-family: jakarta Fallback;
+  src: local(Arial);
+  ascent-override: 98.16%;
+  descent-override: 20.99%;
+  line-gap-override: 0.0%;
+  size-adjust: 105.75%;
+}
+
+.jakarta_1a1f605c-module__5qNRsq__className {
+  font-family: jakarta, jakarta Fallback;
+}
+
+.jakarta_1a1f605c-module__5qNRsq__variable {
+  --font-jakarta: "jakarta", "jakarta Fallback";
+}
+
+/*# sourceMappingURL=src_app_jakarta_1a1f605c_module_css_1igg3k2-ikub5._.single.css.map*/
